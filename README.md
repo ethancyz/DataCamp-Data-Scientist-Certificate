@@ -1,1 +1,0 @@
-# DataCamp-Data-Scientist-Certificate
