@@ -177,13 +177,15 @@ If deployed, the following metrics should be tracked:
 ```
 ├── README.md
 ├── data/
-│   └── recipe_site_traffic_2212.csv（not available）
+│   └── recipe_site_traffic_2212.csv
 ├── notebook/
 │   └── analysis.ipynb
+│   └── data.pdf
 ├── presentation/
 │   └── Predicting_Popular_Recipes_for_Tasty_Bytes.pdf
 ├── certificate/
 │   └── DS0027771951123.pdf
+├── LICENSE
 ```
 
 ---
