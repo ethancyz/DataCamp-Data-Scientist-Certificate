@@ -182,6 +182,8 @@ If deployed, the following metrics should be tracked:
 │   └── analysis.ipynb
 ├── presentation/
 │   └── Predicting_Popular_Recipes_for_Tasty_Bytes.pdf
+├── certificate/
+│   └── DS0027771951123.pdf
 ```
 
 ---
