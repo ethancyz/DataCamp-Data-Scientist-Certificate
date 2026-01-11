@@ -177,7 +177,7 @@ If deployed, the following metrics should be tracked:
 ```
 ├── README.md
 ├── data/
-│   └── recipe_site_traffic_2212.csv
+│   └── recipe_site_traffic_2212.csv（not available）
 ├── notebook/
 │   └── analysis.ipynb
 ├── presentation/
